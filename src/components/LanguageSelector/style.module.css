@@ -1,0 +1,15 @@
+.select {
+    outline: none;
+    background-color: #272822;
+    color: #FFFFFF;
+
+    border: 1px solid #484a3f;
+
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.select:hover {
+    background-color: #484a3f;
+}

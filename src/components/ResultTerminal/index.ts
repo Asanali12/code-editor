@@ -1,0 +1,1 @@
+export { ResultTerminal } from "./ResultTerminal";

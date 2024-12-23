@@ -1,3 +1,7 @@
+# Short task description
+
+Project is a simplified code editor interface (similar to leetcode.com) where users can write code in one of two specified languages (for example, Go and Python), submit it "to the server" (simulating a server) for execution, and receive the results.
+
 # Getting Started with the project
 
 ### `npm i`
@@ -28,3 +32,10 @@ var twoSum = function (nums, target) {
     return [];
 };
 ```
+
+# Possible improvement ways
+
+1) several color themes
+2) separate tab for tests
+3) tips for solving
+4) community tabs(solutions, discussion)
